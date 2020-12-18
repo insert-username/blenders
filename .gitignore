@@ -1,2 +1,9 @@
 *.blend1
+
+# ignore appimage dirs
+blender*/
+
+# fluid sim caches etc..
+cache*/
+
 renders/
